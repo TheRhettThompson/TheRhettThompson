@@ -12,17 +12,19 @@
  -->
 <p>Meet Loretta Mayumi Thompson, a full stack software developer who made a bold career switch from the performing arts to the tech industry. She never thought that the field would be open to her, but with the help of United Way Miami Workforce Project, 4Geeks Academy, and philanthropist Mackenzie Scott, Loretta was able to participate in a coding bootcamp that kickstarted her new career path. A dedicated and passionate lifelong learner, Loretta is grateful for the opportunity and is committed to learning new skills and staying up-to-date with the latest technologies. Outside of work, Loretta enjoys expressing her creativity through various mediums, including performing standup comedy, building dioramas, scratch building toys, journaling, and creating mixed-media art pieces. Her diverse background and curiosity make her a valuable addition to any team. </p>
  
- - 👀 I’m interested in ... 
+ - 👀 I’m interested in 
 - 🌱 I’m currently learning how to code with 4Geeks Academy.
 - 🌱 I’m currently learning ...
 - ?? Ask me about my Soft Skills
-- 💞️ I’m looking to collaborate on ...
-- ?? I'm looking for help with ...
-- 📫 How to reach me ... LINKEDIN, EMAIL
+- 💞️ I’m looking to collaborate on projects that will make life easier for everyday people.
+<!-- - ?? I'm looking for help with ... -->
+- 📫 How to reach me ... LINKEDIN, LMThompson@gmail.com
 - ?? Pronouns: She/Her
 - ?? Fun Fact: I come from the performing arts world and switched to coding and love it!
 
 # My Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheRhettThompson&tokyonight)
 
 [![](https://raw.githubusercontent.com/TheRhettThompson/TheRhettThompson/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/TheRhettThompson/TheRhettThompson/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/TheRhettThompson/TheRhettThompson/master/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
