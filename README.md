@@ -1,26 +1,26 @@
 <h1 align="center">👋 Hi, I’m @TheRhettThompson </h1>
-<!-- <h3 align="center">
+<h3 align="center"> A Full Stack Software Developer who made a bold career switch from the performing arts to the tech industry.</h3>
  
- <img align="center" alt="Coding" width="400" src="<div style="position: relative; width: 100%; height: 0; padding-top: 25.0000%;
- padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFb-fkqVEw&#x2F;watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFb-fkqVEw&#x2F;watch?utm_content=DAFb-fkqVEw&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Loretta Mayumi Thompson - GitHub 03.01.23</a> by ElleVeeLane
- -->
-<p>Meet Loretta Mayumi Thompson, a full stack software developer who made a bold career switch from the performing arts to the tech industry. She never thought that the field would be open to her, but with the help of United Way Miami Workforce Project, 4Geeks Academy, and philanthropist Mackenzie Scott, Loretta was able to participate in a coding bootcamp that kickstarted her new career path. A dedicated and passionate lifelong learner, Loretta is grateful for the opportunity and is committed to learning new skills and staying up-to-date with the latest technologies. Outside of work, Loretta enjoys expressing her creativity through various mediums, including performing standup comedy, building dioramas, scratch building toys, journaling, and creating mixed-media art pieces. Her diverse background and curiosity make her a valuable addition to any team. </p>
  
- - 👀 I’m interested in 
-- 🌱 I’m currently learning how to code with 4Geeks Academy.
-- 🌱 I’m currently learning ...
-- ?? Ask me about my Soft Skills
-- 💞️ I’m looking to collaborate on projects that will make life easier for everyday people.
+<p>  A dedicated and passionate lifelong learner 
+ committed to learning new skills and staying up-to-date with the latest technologies
+ Outside of work, Loretta enjoys expressing her creativity through various mediums, including performing standup comedy, building dioramas, scratch building toys, journaling, and creating mixed-media art pieces. 
+ My diverse background and curiosity make me a valuable addition to any team. </p>
+ 
+- 👀 I’m interested in projects that will make life easier for everyday people.
+- 🌱 I’m currently learning Full Stack Development with JavaScript, React, Python.
+- 🌱 I’m currently working on [SouthFLDevJobs](https://github.com/TheRhettThompson/Group-1-Miami-PT43-FE)
+- 💬 Ask me about my Soft Skills. I'm a decisive team leader, self-motivated, creative, critical thinker, excellent communicator with experience dealing with difficult situations.
+<!-- - 💞️ I’m looking to collaborate on... -->
 <!-- - ?? I'm looking for help with ... -->
-- 📫 How to reach me ... LINKEDIN, LMThompson@gmail.com
-- ?? Pronouns: She/Her
-- ?? Fun Fact: I come from the performing arts world and switched to coding and love it!
+- 📫 How to reach me: **LMThompson@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+ <a href="https://linkedin.com/in/https://www.linkedin.com/in/loretta-mayumi-thompson-293773256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/loretta-mayumi-thompson-293773256/" height="30" width="40" /></a>
+ 
+- ![image](https://user-images.githubusercontent.com/112714412/222765077-9ed95d4f-5015-425e-86e8-eb674f932169.png) Pronouns: She/Her
+- ![image](https://user-images.githubusercontent.com/112714412/222765519-8e8c8165-f363-4033-a158-a1258d976359.png) Fun Fact: I come from the performing arts world and switched to coding and love it!
 
 # My Stats:
 
