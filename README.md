@@ -35,9 +35,9 @@
 
 
 # My Stats:
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=TheRhettThompson&show_icons=true&locale=en&theme=react" alt="TheRhettThompson" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheRhettThompson&theme=react&show_icons=true&locale=en&layout=compact" alt="TheRhettThompson" /></p> 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=TheRhettThompson&theme=react" alt="TheRhettThompson" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=TheRhettThompson&show_icons=true&locale=en&theme=tokyonight" alt="TheRhettThompson" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheRhettThompson&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="TheRhettThompson" /></p> 
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=TheRhettThompson&theme=tokyonight" alt="TheRhettThompson" /></p>
 
 
 
